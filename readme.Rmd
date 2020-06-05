@@ -1,0 +1,22 @@
+---
+title: "README"
+output: html_document
+---
+
+
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
+
+  This repository is submission for Getting and Cleaning Data course project.
+
+## Data source
+  The data set used in this study can be found in the following link: 
+  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+
+## Files
+This repository contains the files as follow:
+
+- `README.md`, this file, which provides an overview of the data set and how it was created.
+- `tidydata.txt`, which contains the final processed data set.
+- `codeBook.md`, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
+- `run_analysis.R`, the R script that was used to create the data set (see the Creating the data set section below)
